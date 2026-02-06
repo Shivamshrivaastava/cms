@@ -4,7 +4,8 @@ A full-stack web application for managing candidate information during recruitme
 
 ## Features
 
-### deployed url - https://cmsassignment.netlify.app/
+### deployed url - https://thenewcms.netlify.app/
+### backend deployed url - https://cms-edbq.onrender.com/api
 
 ### Data Management (CRUD Operations)
 - ✅ **Create**: Add new candidate records with essential information

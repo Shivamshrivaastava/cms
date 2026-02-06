@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 // Backend API base URL - change this to match your backend server
-const API_BASE_URL = 'https://cms-ahha.onrender.com/api'
+const API_BASE_URL = 'https://cms-edbq.onrender.com/api'
 
 // Create axios instance with default config
 const api = axios.create({
